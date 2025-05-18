@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 Supun Piyumal</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=CIS+Undergraduate+at+FOC,+SUSL;Full+Stack+Developer;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=CIS+Undergraduate+at+FOC,+SUSL;Web+Developer;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
