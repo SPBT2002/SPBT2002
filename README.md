@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 🎓 CIS Undergraduate at Faculty of Computing, Sabaragamuwa University of Sri Lanka
+- 🎓 Computing and Information Systems Undergraduate at Faculty of Computing, Sabaragamuwa University of Sri Lanka
 - 🌱 Currently learning **React / Angular / PHP / TypeScript**
 - 💻 Passionate about building web applications and exploring new technologies
 - 🤝 Looking to collaborate on **Open Source Projects**
