@@ -73,7 +73,7 @@
 ## 🔗 Connect with Me
 
 <div align="center">
-  <a href="[https://linkedin.com/in/supun-piyumal](https://www.linkedin.com/in/supun-piyumal-2b9969302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
+  <a href="https://www.linkedin.com/in/supun-piyumal-2b9969302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:supunthennakoon27@gmail.com" target="_blank">
