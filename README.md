@@ -1,5 +1,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
+<br><br><div align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture></div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%232233f0&size=32&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Supun+Piyumal...;CIS+Undergraduate+at+FOC,+SUSL;Web+Developer;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
