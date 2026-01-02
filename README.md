@@ -22,7 +22,8 @@
 - 🤝 Looking to collaborate on **Real World Projects**.
 - 💬 Ask me about **Programming and Software Development**.
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🛠️ Tech Stack
 
@@ -96,6 +97,9 @@
 </table>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -107,16 +111,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spbt2002&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🔗 Connect with Me
+## 📱 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/supun-piyumal-2b9969302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="LinkedIn" height="50" width="50" />
   </a>
+   <a href="mailto:supunthennakoon27@gmail.com" target="_blank">
+   <img align="center" src="https://github.com/user-attachments/assets/1ee677dc-faa5-4602-92c2-72a12ee4b701" alt="mail" height="50" width="50" />
+  </a>
+
   <a href="mailto:supunthennakoon27@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="facebook" height="50" width="50" />
   </a>
-  <a href="https://github.com/spbt2002" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.instagram.com/___s_u_p_u_n_a___?igsh=MThweXR0ZXJjcG9pYg%3D%3D&utm_source=qr" target="_blank"> 
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504918.png" alt="instagram" height="50" width="50" />
   </a>
 </div>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
