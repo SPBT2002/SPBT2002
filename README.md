@@ -1,65 +1,100 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<br><br><div align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture></div>
+<br><div align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture></div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%232233f0&size=32&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Supun+Piyumal...;CIS+Undergraduate+at+FOC,+SUSL;Web+Developer;Always+learning+new+technologies" alt="Typing SVG" />
-</div>
+</div><br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=spbt2002&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-</div>
+<table align="center">
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+</td>
+</tr>
+</table>
 
 ## About Me
+- 🎓 Computing and Information Systems Undergraduate at Faculty of Computing, Sabaragamuwa University of Sri Lanka.
+- 🌱 Currently learning **React / Angular / PHP / TypeScript**.
+- 💻 Passionate about building web applications and exploring new technologies.
+- 🤝 Looking to collaborate on **Real World Projects**.
+- 💬 Ask me about **Programming and Software Development**.
 
-- 🎓 Computing and Information Systems Undergraduate at Faculty of Computing, Sabaragamuwa University of Sri Lanka
-- 🌱 Currently learning **React / Angular / PHP / TypeScript**
-- 💻 Passionate about building web applications and exploring new technologies
-- 🤝 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Programming and Software Development**
+<br>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- 🎨 Frontend -->
+<h2 align="center">🎨 Frontend Development</h2>
+<p align="center">
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="45"/><br>TypeScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+</tr>
+</table>
+</p>
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<br/>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+<!-- ⚙️ Backend -->
+<h2 align="center">⚙️ Backend Development</h2>
+<p align="center">
+<table align="center">
+<tr>
 
-</div>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring" width="45"/><br>Spring Boot</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br>PHP</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br>C</td>
+
+
+</tr>
+</table>
+</p>
+
+<br/>
+
+<!-- 🗄️ Databases -->
+<h2 align="center">🗄️ Databases & ORMs</h2>
+<p align="center">
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="45"/><br>Firebase</td>
+</tr>
+</table>
+</p>
+
+<!-- 🛠 Tools -->
+<h2 align="center">🛠️ Tools</h2>
+<p align="center">
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=idea" width="45"/><br>IntelliJ</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br>Postman</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="45"/><br>AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
+</tr>
+</table>
+</p>
 
 ## 📊 GitHub Stats
 
