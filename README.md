@@ -102,37 +102,65 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/>
 </p>
-
+<br>
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spbt2002&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spbt2002&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" height="170" />
-</div>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spbt2002&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
+<a href="https://github.com/SPBT2002">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=spbt2002&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+</td>
+
+<td width="50%" align="center">
+   <a href="https://github.com/SPBT2002">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SPBT2002&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</td>
+</tr>
+</table>
+<br>
 
 ## 📱 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/supun-piyumal-2b9969302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="LinkedIn" height="50" width="50" />
-  </a>
-   <a href="mailto:supunthennakoon27@gmail.com" target="_blank">
-   <img align="center" src="https://github.com/user-attachments/assets/1ee677dc-faa5-4602-92c2-72a12ee4b701" alt="mail" height="50" width="50" />
-  </a>
 
-  <a href="mailto:supunthennakoon27@gmail.com" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="facebook" height="50" width="50" />
-  </a>
-  <a href="https://www.instagram.com/___s_u_p_u_n_a___?igsh=MThweXR0ZXJjcG9pYg%3D%3D&utm_source=qr" target="_blank"> 
-    <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504918.png" alt="instagram" height="50" width="50" />
-  </a>
+<a href="https://www.linkedin.com/in/supun-piyumal-2b9969302" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" width="50" style="display:block" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:supunthennakoon27@gmail.com">
+  <img src="https://github.com/user-attachments/assets/1ee677dc-faa5-4602-92c2-72a12ee4b701" width="50" style="display:block" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://facebook.com">
+  <img src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" width="50" style="display:block" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/___s_u_p_u_n_a___">
+  <img src="https://cdn-icons-png.flaticon.com/128/2504/2504918.png" width="50" style="display:block" />
+</a>
+
 </div>
-<br>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+</td>
+</tr>
+</table>
+</div>
 
